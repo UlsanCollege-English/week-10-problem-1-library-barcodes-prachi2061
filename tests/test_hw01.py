@@ -1,5 +1,6 @@
 
 
+import random
 from main import make_table, hash_basic, put, get, has_key, size
 
 # ---- Normal tests (4) ----
